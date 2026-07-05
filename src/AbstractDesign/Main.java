@@ -49,7 +49,7 @@ class sparrow implements Bird {
 
     @Override
     public void eat() {
-        System.out.println("Sparrow eating");
+        System.out.println("Sparrow eating.");
     }
 }
 
